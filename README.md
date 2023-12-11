@@ -15,8 +15,7 @@ Notebooks used to process the data from the ISS and Xenium experiments, which in
 ### Visualization code
 Notebooks used to generate the figures in the paper.
 
-##Data and code availability 
-
+## Data and code availability 
 The ISS data from the 52 mouse samples and the 6 human MS samples are deposited at Zenodo under the DOI: 10.5281/zenodo.8037425. The data is available in one anndata format, compatible with scanpy and squidpy.
 
 ## Keywords

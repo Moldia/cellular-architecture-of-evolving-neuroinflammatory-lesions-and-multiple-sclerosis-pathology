@@ -1,6 +1,6 @@
 # Spatial and cellular dynamics of multiple sclerosis disease evolution and neuropathology in mouse and human 
 This repository contains the notebooks used to generate the data and the figures in the preprint: https://www.biorxiv.org/content/10.1101/2023.06.29.547074v1
-![EAE schema](images/EAE_schema.png)
+![EAE schema](images/eae_schema.png)
 
 ## Abstract
 Multiple sclerosis (MS) is a neurological disease characterized by multifocal lesions and smoldering pathology. While single-cell analyses provided insights into cytopathology, evolving cellular processes underlying MS remain poorly understood. We modeled the cellular dynamics of MS by examining temporal and regional rates of disease progression in mouse experimental autoimmune encephalomyelitis. By performing single-cell spatial expression profiling using In situ sequencing, we annotated disease neighborhoods during lesion evolution and found centrifugal propagation of active lesions. We demonstrated that disease-associated (DA)-glia arise independently of lesions and are dynamically induced and resolved over the disease course. Single-cell spatial mapping of human archival MS spinal cords confirmed the differential distribution of homeostatic and DA-glia, enabled deconvolution of active and inactive lesions into sub-compartments, and identified new lesion areas. By establishing a spatial resource of mouse and human MS neuropathology at a single-cell resolution, our study unveils the intricate cellular dynamics underlying MS evolution.

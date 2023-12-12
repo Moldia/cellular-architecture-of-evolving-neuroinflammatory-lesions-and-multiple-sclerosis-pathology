@@ -18,7 +18,7 @@ Multiple sclerosis (MS) is a neurological disease characterized by multifocal le
 ## Code description
 For a complete breakdown of the code used to generate the *in situ* sequencing data for the mouse, please visit: https://github.com/Moldia/Lee_2023 or the following repos for CARE: https://github.com/Moldia/ISS_CARE, for preprocessing: https://github.com/Moldia/ISS_preprocessing, for decoding: https://github.com/Moldia/ISS_decoding and for postprocessing: https://github.com/Moldia/ISS_postprocessing. For insights into the best working practises for treating xenium data please visit: https://github.com/Moldia/Xenium_benchmarking. 
 
-<font size="100"> **These notebooks are supplied for transparency, and we cannot guarantee that they will work flawlessly for you.** </font>
+**These notebooks are supplied for transparency, and we cannot guarantee that they will work flawlessly for you.**
 
 
 ### Processing code

@@ -18,9 +18,10 @@ Multiple sclerosis (MS) is a neurological disease characterized by multifocal le
 ## Code description
 For a complete breakdown of the code used to generate the *in situ* sequencing data for the mouse, please visit: https://github.com/Moldia/Lee_2023 or the following repos for CARE: https://github.com/Moldia/ISS_CARE, for preprocessing: https://github.com/Moldia/ISS_preprocessing, for decoding: https://github.com/Moldia/ISS_decoding and for postprocessing: https://github.com/Moldia/ISS_postprocessing. For insights into the best working practises for treating xenium data please visit: https://github.com/Moldia/Xenium_benchmarking. 
 
-### Processing code
-Notebooks used to process the data from the ISS and Xenium experiments, which includes image restoration (CARE; for the ISS data), preprocessing, decoding, and postprocessing. The postprocessing includes the cell segmentation and the creation of the adata objects that were used downstream for cell type clustering and annotation. These notebooks are supplied for transparency, and we cannot guarantee that they will work flawlessly for you. If you need help in setting up the environment and running the notebooks, please read the manual supplied here: https://github.com/Moldia/Lee_2023/blob/main/ISS_manual_Supplementary_dRNA.pdf. 
+**These notebooks are supplied for transparency, and we cannot guarantee that they will work flawlessly for you.**
 
+### Processing code
+Notebooks used to process the data from the ISS and Xenium experiments, which includes image restoration (CARE; for the ISS data), preprocessing, decoding, and postprocessing. The postprocessing includes the cell segmentation and the creation of the adata objects that were used downstream for cell type clustering and annotation. If you need help in setting up the environment and running the notebooks, please read the manual supplied here: https://github.com/Moldia/Lee_2023/blob/main/ISS_manual_Supplementary_dRNA.pdf. 
 
 ### Visualization code
 Notebooks used to generate the figures in the paper.

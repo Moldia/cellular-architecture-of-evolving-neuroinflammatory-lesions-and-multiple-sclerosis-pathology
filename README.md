@@ -16,13 +16,13 @@ Multiple sclerosis (MS) is a neurological disease characterized by multifocal le
 **Active EAE lesions propagate in a centrifugal manner.** 
 (A) Polygons of expanded nuclei colored by the neighborhood-driven compartment annotations, including disease-associated and anatomical compartments. Scale bars - 325μm. (B) Insets of the different lesion stages, corresponding compartments, and cell populations. Inset size - 325μm. 
 ## Code description
-For a complete breakdown of the code used to generate the *in situ* sequencing data for the mouse, please visit: https://github.com/Moldia/Lee_2023 or the following repos for CARE: https://github.com/Moldia/ISS_CARE, for preprocessing: https://github.com/Moldia/ISS_preprocessing, for decoding: https://github.com/Moldia/ISS_decoding and for postprocessing: https://github.com/Moldia/ISS_postprocessing. For insights into the best working practises for treating xenium data please visit: https://github.com/Moldia/Xenium_benchmarking. 
+For a complete breakdown of the code used to generate the *in situ* sequencing data for the mouse, please visit: https://github.com/Moldia/Lee_2023 or the following repos for [CARE](https://www.nature.com/articles/s41592-018-0216-7): https://github.com/Moldia/ISS_CARE, for preprocessing: https://github.com/Moldia/ISS_preprocessing, for decoding: https://github.com/Moldia/ISS_decoding and for postprocessing: https://github.com/Moldia/ISS_postprocessing. For insights into the best working practises for treating xenium data please visit: https://github.com/Moldia/Xenium_benchmarking. 
 
 **These notebooks are supplied for transparency, and we cannot guarantee that they will work flawlessly for you.**
 
 
 ### Processing code
-Notebooks used to process the data from the ISS and Xenium experiments, which includes image restoration (CARE; for the ISS data), preprocessing, decoding, and postprocessing. The postprocessing includes the cell segmentation and the creation of the adata objects that were used downstream for cell type clustering and annotation. If you need help in setting up the environment and running the notebooks, please read the manual supplied here: https://github.com/Moldia/Lee_2023/blob/main/ISS_manual_Supplementary_dRNA.pdf. 
+Notebooks used to process the data from the ISS and Xenium experiments, which includes image restoration ([CARE](https://www.nature.com/articles/s41592-018-0216-7); for the ISS data), [preprocessing](https://github.com/Moldia/ISS_preprocessing), [decoding](https://github.com/Moldia/ISS_decoding), and [postprocessing](https://github.com/Moldia/ISS_postprocessing). The postprocessing includes the cell segmentation and the creation of the adata objects that were used downstream for cell type clustering and annotation. If you need help in setting up the environment and running the notebooks, please read the manual supplied here: https://github.com/Moldia/Lee_2023/blob/main/ISS_manual_Supplementary_dRNA.pdf. 
 
 ### Visualization code
 Notebooks used to generate the figures in the paper.

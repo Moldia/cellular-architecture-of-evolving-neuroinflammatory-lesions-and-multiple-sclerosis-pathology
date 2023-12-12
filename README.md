@@ -26,7 +26,9 @@ Notebooks used to process the data from the ISS and Xenium experiments, which in
 Notebooks used to generate the figures in the paper.
 
 ## Data and code availability 
-The ISS data from the 52 mouse samples and the 6 human MS samples are deposited at Zenodo under the DOI: 10.5281/zenodo.8037425. The data is available in one anndata format, compatible with scanpy and squidpy. The data can be explored further at https://tissuumaps.scilifelab.se/2023_spinal_brain.html. 
+The ISS data from the 52 mouse samples and the 6 human MS samples are deposited at Zenodo under the DOI: 10.5281/zenodo.8037425. We cannot at this point provide the raw data for the sequencing since this consitutes many TBs of data. The data is available in annData format, compatible with scanpy and squidpy. 
+
+The data can be visualized and explored through the TissUUmaps web-based tool, accessible at https://tissuumaps.scilifelab.se/2023_spinal_brain.html. Within this portal, comprehensive information is provided, including observations and gene counts per cell for each of the 52 mouse tissue samples and the six human tissue samples, along with DAPI. The observations are categorized into metadata, quality control, cell type annotations, spatial neighbor networks, and pathological compartments.
 
 ## Keywords
 Spatial sequencing, multiple sclerosis, neuroinflammation, disease-associated glia

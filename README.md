@@ -4,7 +4,7 @@ This repository contains the notebooks used to generate the data and the figures
 The full notebooks, all zipped, with the outputs are contained within the [zenodo](https://zenodo.org) repo with the accompanying DOI: 10.5281/zenodo.8037425 (unpublished for now).  
 
 ## Graphical abstract
-![Graphical abstract](images/Graphical\ abstract.png)
+![Graphical abstract](images/graphical_abstract.png)
 
 ## Experimental set up
 We collected tissues from mice injected with MOG35-55, which triggers myelin-specific T cells to progressively infiltrate the spinal cord in an ascending manner. Tissues were collected at peak from the lumbar region of the spinal cord and more cranial regions of the spinal cord (thoracic and cervical) and the brain. Addutionally, we collected lumbar sections from non-sympotomatic mice and at symptom onset as well as late stage lumbar and cervical sections. To correlate these findings with human spinal cord pathology in MS patients, we applied ISS with the [Xenium In situ platform](https://www.10xgenomics.com/platforms/xenium?utm_medium=search&utm_source=google&utm_campaign=sem-goog-2022-website-page-ra_g-p_xenium-nonbrand-emea&useroffertype=quote-request&userresearcharea=ra_g&userregion=emea&userrecipient=customer&usercampaignid=7011P0000013tOuQAI&gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JnwJuWTlH9H7mh4igrtw9IG59swRfolzDz0Qo-w7TjvLjOOFj-5WWRoCv6cQAvD_BwE) to six human post-mortem cervical spinal cord cross-sections, two control (CTRL1 and CTRL2) and four progressive MS samples bearing pathologically annotated active (MSa1 and MSa2) or inactive lesions (MSi1 and MSi2). 
